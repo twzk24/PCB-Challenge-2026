@@ -1,4 +1,4 @@
 # PCB-Challenge-2026
 PCB Reverse Engineering &amp; Layout
 
-There was no way I was finishing this in the remaining time
+There was no way I was finishing this
